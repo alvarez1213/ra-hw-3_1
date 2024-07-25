@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5f7328bc.css","mappings":"AAAA,iBAEI,YAAa,CACb,gBAAiB,CAFjB,oBAGJ,CCJA,SACI,WACJ","sources":["components/Stars/stars.css","App.css"],"sourcesContent":[".card-body-stars {\r\n    list-style-type: none;\r\n    display: flex;\r\n    flex-wrap: nowrap;\r\n}",".content {\r\n    margin: auto;\r\n}"],"names":[],"sourceRoot":""}
